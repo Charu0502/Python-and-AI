@@ -1,2 +1,2 @@
-# Python-and-AI
+# Python
 Projects related to Python and AI
